@@ -41,7 +41,7 @@ How to Run
 ## Checkout Page
 ![Checkout](checkout.png)
 
-##Admin dashboard
+## Admin dashboard
 ![Admin dashboard](admin.png)
 
  
