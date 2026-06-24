@@ -26,15 +26,15 @@ How to Run
 5. Open `http://localhost/ShopEase` in your browser.
 
 
-Screenshots
-## Home Page
-![Home Page](Shop.png)
 
 ## Login Page
 ![Login](Login.png)
 
 ## Register Page
 ![Register](Register.png)
+
+## Home Page
+![Home Page](Shop.png)
 
 ## Cart Page
 ![Cart](cart.png)
