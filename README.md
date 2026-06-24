@@ -25,6 +25,26 @@ How to Run
 4. Import `shopease.sql` into phpMyAdmin.
 5. Open `http://localhost/ShopEase` in your browser.
 
+
+Screenshots
+## Home Page
+![Home Page](Shop.png)
+
+## Login Page
+![Login](Login.png)
+
+## Register Page
+![Register](Register.png)
+
+## Cart Page
+![Cart](cart.png)
+
+## Checkout Page
+![Checkout](checkout.png)
+
+##Admin dashboard
+![Admin dashboard](admin.png)
+
  
  
 
